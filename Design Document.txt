@@ -1,0 +1,13 @@
+Name: Tyler Woodside
+
+Controls:
+  Left/Right: Scroll
+
+Description:
+  Views a tile map with scrolling.
+
+Difficulties:
+  This one actually went relatively smoothly, I just ran out of time to finish it.
+  The only major difficulty I had was where I wrote a define wrong, and so was turning
+  on the wrong bit for background0 enable.
+  I'm turning it in before midnight just to avoid late penalties. I'll resubmit when it's completely done.
